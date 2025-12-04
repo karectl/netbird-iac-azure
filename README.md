@@ -1,0 +1,1 @@
+Self-hosted Netbird deployment in Azure for TETRE development.
